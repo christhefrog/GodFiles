@@ -1,6 +1,8 @@
 //Place this file in /Home and change
 //anything you want.
 
+Bool firstspawn = FALSE;
+
 U0 UserStartUp()
 {//Run each time a user a spawned
   DocTermNew;
@@ -9,8 +11,8 @@ U0 UserStartUp()
   WinToTop;
   WinZBufUpdate;
   WinMax;
-  //#include "::/Home/Includes.HC";
-  Dir;
+  
+  Dir;
 }
 
 U0 SrvStartUp()
