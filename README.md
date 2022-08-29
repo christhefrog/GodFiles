@@ -1,4 +1,4 @@
-# TempleConfig _for ShrineOS 5.05_
+# My config _for ShrineOS 5.05_
 
 ![Screenshot](screenshot.png)
 
